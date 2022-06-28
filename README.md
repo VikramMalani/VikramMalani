@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikramMalani
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Blogging, SEO, Digital Marketing, Content Writting and Web Development
+- 🌱 I’m currently working as a freelancher
 - 💞️ I’m Thinking to start a new startup
 - 📫 Contact me: vikramjangidbca@gmail.com
 
